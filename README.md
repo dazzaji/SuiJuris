@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+# Sui Juris Resources and Tools
 
-You can use the [editor on GitHub](https://github.com/dazzaji/SuiJuris/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Tools and resources for sui juris control of one's own digital identity, personal data, property rights and civic prerogotives.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What Does Sui Juris Mean?
 
-### Markdown
+* [https://thelawdictionary.org/sui-juris](https://thelawdictionary.org/sui-juris)
+> Lat. Of his own right; possessing full social and civil rights; not under any legal disability, or the power of another, or guardianship. Having capacity to manage one’s own affairs; not under legal disability to act for one’s self.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [https://www.merriam-webster.com/dictionary/sui%20juris](https://www.merriam-webster.com/dictionary/sui%20juris)
+> Having full legal capacity to act on one's own behalf : not subject to the authority of another
 
-```markdown
-Syntax highlighted code block
+* [https://legal-dictionary.thefreedictionary.com/sui+juris](https://legal-dictionary.thefreedictionary.com/sui+juris)
 
-# Header 1
-## Header 2
-### Header 3
+> ‘Subject to his own law’, an independent legal person.
+> One who has all the rights to which a freemen is entitled; one who is not under the power of another, as a slave, a minor, and the like. 
+> Possessing full social and Civil Rights; not under any legal disability, or the power of another, or guardianship. Having the capacity to manage one's own affairs; not under legal disability to act for one's self.
+> To make a valid contract, a person must, in general, be sui juris. Every one of full age is presumed to be sui juris. 
 
-- Bulleted
-- List
+* [https://definitions.uslegal.com/s/sui-juris](https://definitions.uslegal.com/s/sui-juris)
+> "Sui Juris is a Latin phrase meaning "in one's own right." It means a person who is able to make contracts and sue others, or be sued himself. A person sui juris is one who is not bankrupt, mentally incapable or a minor. It is the legal capacity to manage one's own affairs. Most adults are considered as sui juris."
 
-1. Numbered
-2. List
+# Tools 
 
-**Bold** and _Italic_ and `Code` text
+## Tools: Sui Juris Identity and Consent
 
-[Link](url) and ![Image](src)
-```
+* Sovrin Foundation Tools and Trust Framework
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* uPort Tools
 
-### Jekyll Themes
+* More to follow
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dazzaji/SuiJuris/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Tools: Sui Juris Speech and Assembly
 
-### Support or Contact
+## Tools: Sui Juris Contracts and Property
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Other Resources
+
+## Readings
+
+## Meetings
